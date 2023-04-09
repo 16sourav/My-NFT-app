@@ -2,6 +2,7 @@
   "name": "starter_kit",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://16sourav.github.io/NFT-marketplace/",
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
